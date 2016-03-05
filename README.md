@@ -4,7 +4,7 @@ IOS Usage:
 - UI View Controller
 - UI Navigator Controller
 - Segue
-- Safariservices
+- Safari services
 
 There are two folder:
 1. WebBuild (Single page application build with JSON parser, segue, label, text, button)
